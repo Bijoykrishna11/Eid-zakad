@@ -1,0 +1,113 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: none;
+}
+
+#top-1 {
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+}
+
+.font-page {
+    margin-left: 250px;
+
+
+}
+
+.bannar {
+    background-image: url(R.png);
+    padding-top: 200px;
+    padding-bottom: 100px;
+    background-repeat: no-repeat;
+    padding-right: 100px;
+    background-size: cover;
+    border-radius: 20px;
+
+}
+
+#para-head {
+    margin-bottom: 50px;
+    color: rgb(255, 255, 255);
+}
+
+.Donation {
+    text-decoration: none;
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(red, tomato);
+    padding: 20px 40px;
+    border-radius: 7px;
+}
+
+#donation {
+    font-size: 50px;
+}
+
+.is {
+    display: flex;
+    margin-top: 100px;
+}
+
+.market {
+    width: 550px;
+    height: 600px;
+    border-radius: 20px;
+    margin-left: 50px;
+
+
+}
+
+.ritten {
+    width: 50%;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+#button {
+    text-decoration: none;
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(red, tomato);
+    padding: 20px 40px;
+    border-radius: 7px;
+
+}
+
+.para {
+    margin-bottom: 50px;
+}
+
+.id {
+    border: 1px solid black;
+    margin-left: 20px;
+    border-radius: 6px;
+}
+
+.text-img {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 170px;
+
+}
+
+.habe {
+    padding-left: 15px;
+}
+
+.figma {
+    background-color: rgb(207, 194, 194);
+    margin-left: 50px;
+    padding-left: 30px;
+    border-radius: 7px;
+
+}
+
+.figma img {
+    margin-top: 30px;
+}
+
+.icon {
+    display: flex;
+    margin: 50px 0 0 500px;
+
+}
